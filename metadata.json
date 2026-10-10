@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER NOIR — Urban Luxury Clothing",
+  "description": "Cinematic 3D urban luxury clothing storefront featuring architectural silhouettes, interactive 3D garment inspection, and official Shopify Storefront API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
